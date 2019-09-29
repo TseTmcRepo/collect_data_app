@@ -1,1 +1,9 @@
-
+pymysql
+psutil
+requests
+termcolor
+urllib3
+xlrd
+idna
+chardet
+certifi
