@@ -6,7 +6,16 @@ remote_port = 3306
 pc_info = {'local_hostname':'localhost',
            'local_port':3306,
 
-            # vps1 ------------------------
+            # DB-Server ------------------------ arvancload
+            'DB-Server_remote_username':'tsetmc_raw_data_',
+            'DB-Server_remote_password':'9!b$#4Kx7W5g2L#pvmEta7Afc#6PgYz7mmaexr@2@!zR4hgt/NM!nb$zAP-Y&eULz6KqW%^EUZAd6XsywpqfYgzS^RXmnv_v@4JF76xeU=z3KSe7',
+            'DB-Server_remote_hostname':'178.63.149.85',
+            'DB-Server_remote_port':remote_port,
+            # ----------------------
+            'DB-Server_local_username':'tsetmc_raw_data',
+            'DB-Server_local_password':'9!b$#4Kx7W5g2L#p',
+
+            # vps1 ------------------------ novinvps
             'vps1_remote_username':'tsetmc_raw_data_',
             'vps1_remote_password':'9!b$#4Kx7W5g2L#pvmEta7Afc#6PgYz7mmaexr@2@!zR4hgt/NM!nb$zAP-Y&eULz6KqW%^EUZAd6XsywpqfYgzS^RXmnv_v@4JF76xeU=z3KSe7',
             'vps1_remote_hostname':'178.63.149.85',
